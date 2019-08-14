@@ -34,8 +34,8 @@ This project was put together using create-react-app (CRA). You will not need to
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
+- [x] Submit a Pull-Request to merge Branch into master (student's Repository). **Please don't merge your own pull request**
+- [x] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master.
 - [ ] Do your magic!
 

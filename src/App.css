@@ -1,0 +1,18 @@
+.container {
+    max-width: 472px;
+    max-height: 709px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background: #a81d36;
+    border: 1px solid #404040;
+    border-radius: 8px;
+    /* align-items: center; */
+
+}
+
+.display{
+    border: 2px solid orange;
+    border-radius: 50px;
+
+}
