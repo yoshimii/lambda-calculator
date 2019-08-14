@@ -26,4 +26,3 @@ const Operators = () => {
 
 export default Operators;
 
-// props.number === 0 ? btn-o : null

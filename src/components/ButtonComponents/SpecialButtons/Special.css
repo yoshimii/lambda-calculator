@@ -1,0 +1,40 @@
+.horizontal_buttons {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    
+}
+
+.special_button, .number_button, .operator_button {
+    background: orange;
+    border-radius: 150px;
+    height: 90px;
+    width: 90px;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    color: white;
+    font-size: 2rem;
+    box-shadow: 0px 5px #480e14;
+
+}
+
+.operator_container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.special_button {
+    background: #225d9e;
+}
+.operator_button {
+    background: #237293;
+}
+
+.number_button {
+    background: #184379;
+}
+
+.zero {
+    width: 195px;
+}
